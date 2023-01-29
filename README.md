@@ -15,7 +15,7 @@ Install Dependencies
 npm install
 ```
 
-#Sample
+# Sample
 
 # Input:
 
@@ -57,7 +57,7 @@ node index.js BALANCE ACC001
 ```
 node index.js BALANCE ACC002
 ```
-#Output
+# Output:
 
 - KELP 900
 - FVTPL 800
