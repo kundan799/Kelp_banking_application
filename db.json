@@ -1,0 +1,16 @@
+{
+  "UerDetails": [
+    {
+      "accountNumber": "ACC001",
+      "AcountHoldername": "KELP",
+      "AccountBalance": 17000,
+      "id": 1
+    },
+    {
+      "accountNumber": "ACC002",
+      "AcountHoldername": "FVTPL",
+      "AccountBalance": 20000,
+      "id": 2
+    }
+  ]
+}
